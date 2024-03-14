@@ -99,7 +99,10 @@ Modal.destroyAll();
 ## 拖拽
 借助`react-draggable`实现
 https://stackblitz.com/edit/react-yuftzi?file=demo.js
+
+## 使用 hooks 获得上下文
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4ODc0MTI5MSwxOTY2ODM1OTg1LC0zMT
-kyNjQyMjcsMTk5NTY1NDM1MSwtMTc3NTQ3NjgzOV19
+eyJoaXN0b3J5IjpbODAzOTAzMDkwLDE5NjY4MzU5ODUsLTMxOT
+I2NDIyNywxOTk1NjU0MzUxLC0xNzc1NDc2ODM5XX0=
 -->
