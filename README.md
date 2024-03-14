@@ -96,7 +96,11 @@ Modal.destroyAll();
 ```
 `width {string | number}`
 
+## 拖拽
+1. react-draggable
+2. modalRender
+3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxOTI2NDIyNywxOTk1NjU0MzUxLC0xNz
-c1NDc2ODM5XX0=
+eyJoaXN0b3J5IjpbLTc5MDYzODMwNiwtMzE5MjY0MjI3LDE5OT
+U2NTQzNTEsLTE3NzU0NzY4MzldfQ==
 -->
