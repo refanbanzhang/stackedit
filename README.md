@@ -97,10 +97,9 @@ Modal.destroyAll();
 `width {string | number}`
 
 ## 拖拽
-1. react-draggable
-2. modalRender
-
+借助`react-draggable`实现
+https://stackblitz.com/edit/react-yuftzi?file=demo.js
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NjgzNTk4NSwtMzE5MjY0MjI3LDE5OT
-U2NTQzNTEsLTE3NzU0NzY4MzldfQ==
+eyJoaXN0b3J5IjpbLTM4ODc0MTI5MSwxOTY2ODM1OTg1LC0zMT
+kyNjQyMjcsMTk5NTY1NDM1MSwtMTc3NTQ3NjgzOV19
 -->
