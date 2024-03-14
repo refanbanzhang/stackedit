@@ -101,8 +101,11 @@ Modal.destroyAll();
 https://stackblitz.com/edit/react-yuftzi?file=demo.js
 
 ## 使用 hooks 获得上下文
-
+解决了什么问题？
+解决弹层`content`中需要访问调用处数据的需求
+但是也可以直接，在调用处通过props传递进来，好像更简单些
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAzOTAzMDkwLDE5NjY4MzU5ODUsLTMxOT
-I2NDIyNywxOTk1NjU0MzUxLC0xNzc1NDc2ODM5XX0=
+eyJoaXN0b3J5IjpbLTEwMTM1NDM2MCw4MDM5MDMwOTAsMTk2Nj
+gzNTk4NSwtMzE5MjY0MjI3LDE5OTU2NTQzNTEsLTE3NzU0NzY4
+MzldfQ==
 -->
