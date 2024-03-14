@@ -42,7 +42,21 @@ confirm({
 ```
 `title icon content`均为`ReactNode`
 `onOk onCancel`回调，参数为关闭函数，返回`promise`时`resolve`后自动关闭。
+
+## 信息提示
+```js
+Modal.info({
+	title: 'This is a notification message',
+	content: (
+		<div>
+			<p>some messages...some messages...</p>
+			<p>some messages...some messages...</p>
+		</div>
+	),
+	onOk() {},
+});
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzk1NjE5NjAsLTE3NzU0NzY4MzldfQ
+eyJoaXN0b3J5IjpbLTE3NzE2MTA3NzIsLTE3NzU0NzY4MzldfQ
 ==
 -->
