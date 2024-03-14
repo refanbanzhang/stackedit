@@ -1,5 +1,9 @@
 ## 基础使用
-
+| 属性名   | 描述             |
+| -------- | ---------------- |
+| `open`   | 控制显示         |
+| `onOk`   | 确定按钮回调     |
+| `onCancel` | 取消按钮回调   |
 
 ## 异步关闭
 通过在handleOk回调中，异步修改open的值实现。
@@ -19,6 +23,10 @@
 通过传递`footer` 覆盖默认的页脚。
 类型为`ReactNode`
 当不需要默认底部按钮时，可以设为 `footer={null}`
+
+## 确认对话框
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQzNjk0OTAyLC0xNzc1NDc2ODM5XX0=
+eyJoaXN0b3J5IjpbLTIwNzAxNTg4ODYsLTE3NzU0NzY4MzldfQ
+==
 -->
