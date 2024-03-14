@@ -104,8 +104,10 @@ https://stackblitz.com/edit/react-yuftzi?file=demo.js
 解决了什么问题？
 解决弹层`content`中需要访问调用处数据的需求。
 但是也可以直接，在调用处通过`props`传递进来，好像更简单些。
+
+https://stackblitz.com/edit/react-zvzpjz?file=demo.js,Detail.js
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzI5OTY0NTQsODAzOTAzMDkwLDE5Nj
-Y4MzU5ODUsLTMxOTI2NDIyNywxOTk1NjU0MzUxLC0xNzc1NDc2
-ODM5XX0=
+eyJoaXN0b3J5IjpbMjAwNjIxNzUxLDgwMzkwMzA5MCwxOTY2OD
+M1OTg1LC0zMTkyNjQyMjcsMTk5NTY1NDM1MSwtMTc3NTQ3Njgz
+OV19
 -->
