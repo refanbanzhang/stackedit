@@ -44,6 +44,7 @@ confirm({
 `onOk onCancel`回调，参数为关闭函数，返回`promise`时`resolve`后自动关闭。
 
 ## 信息提示
+各种类型的信息提示，只提供一个按钮用于关闭。
 ```js
 Modal.info({
 	title: 'This is a notification message',
@@ -56,7 +57,9 @@ Modal.info({
 	onOk() {},
 });
 ```
+
+## 国际化
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzE2MTA3NzIsLTE3NzU0NzY4MzldfQ
-==
+eyJoaXN0b3J5IjpbMTk5NTY1NDM1MSwtMTc3NTQ3NjgzOV19
 -->
