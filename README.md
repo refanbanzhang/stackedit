@@ -26,7 +26,18 @@
 
 ## 确认对话框
 ```
+confirm({
+	title: 'Do you want to delete these items?',
+	icon: <ExclamationCircleOutlined />,
+	content: 'When clicked the OK button, this dialog will be closed after 1 second',
+	onOk() {
+		return new Promise((resolve, reject) => {
+		setTimeout(Math.random() > 0.5 ? resolve : reject, 1000);
+		}).catch(() => console.log('Oops errors!'));
+	},
+	onCancel() {},
+});
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzAxNTg4ODYsLTE3NzU0NzY4MzldfQ
-==
+eyJoaXN0b3J5IjpbNjM3OTA2MTU4LC0xNzc1NDc2ODM5XX0=
 -->
