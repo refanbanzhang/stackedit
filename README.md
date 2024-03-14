@@ -6,11 +6,11 @@
 | `onCancel` | 取消按钮回调   |
 
 ## 异步关闭
-通过在handleOk回调中，异步修改open的值实现。
+通过在`handleOk`回调中，异步修改`open`的值实现。
 ```js
 <Modal
 	title="Title"
-	open={open} visible
+	open={open} 
 	confirmLoading={confirmLoading}
 	onOk={handleOk} 确定按钮
 	onCancel={handleCancel} 取消按钮
@@ -104,10 +104,9 @@ https://stackblitz.com/edit/react-yuftzi?file=demo.js
 解决了什么问题？
 解决弹层`content`中需要访问调用处数据的需求。
 但是也可以直接，在调用处通过`props`传递进来，好像更简单些。
-
 https://stackblitz.com/edit/react-zvzpjz?file=demo.js,Detail.js
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNjIxNzUxLDgwMzkwMzA5MCwxOTY2OD
-M1OTg1LC0zMTkyNjQyMjcsMTk5NTY1NDM1MSwtMTc3NTQ3Njgz
-OV19
+eyJoaXN0b3J5IjpbMTI4NTU2NTgwMSw4MDM5MDMwOTAsMTk2Nj
+gzNTk4NSwtMzE5MjY0MjI3LDE5OTU2NTQzNTEsLTE3NzU0NzY4
+MzldfQ==
 -->
