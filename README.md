@@ -66,10 +66,24 @@ cancelText="取消"
 ```
 
 ## 手动更新和移除
-```
+```js
+const modal = Modal.success({
+	title: 'This is a notification message',
+	content: `This modal will be destroyed after ${secondsToGo} second.`,
+});
 
+# 更新弹窗内容
+modal.update({
+	content: `This modal will be destroyed after ${secondsToGo} second.`,
+});
+
+# 手动移除弹窗
+modal.destroy();
+
+# 全局移除弹窗（无差别移除）
+Modal.destroyAll();
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5OTI0NjczLDE5OTU2NTQzNTEsLTE3Nz
-U0NzY4MzldfQ==
+eyJoaXN0b3J5IjpbMTE5NTE4MzMyNCwxOTk1NjU0MzUxLC0xNz
+c1NDc2ODM5XX0=
 -->
