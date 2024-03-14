@@ -18,6 +18,7 @@ onCancel 取消按钮回调
 ```
 
 自定义页脚
+通过传递`footer` 覆盖默认的页脚。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzU0NzY4MzldfQ==
+eyJoaXN0b3J5IjpbLTg5MDEwMzQwLC0xNzc1NDc2ODM5XX0=
 -->
