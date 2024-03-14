@@ -7,7 +7,7 @@
 
 ## 异步关闭
 通过在handleOk回调中，异步修改open的值实现。
-```
+```js
 <Modal
 	title="Title"
 	open={open} visible
@@ -25,19 +25,22 @@
 当不需要默认底部按钮时，可以设为 `footer={null}`
 
 ## 确认对话框
-```
+命令式调用弹窗
+```js
 confirm({
 	title: 'Do you want to delete these items?',
 	icon: <ExclamationCircleOutlined />,
 	content: 'When clicked the OK button, this dialog will be closed after 1 second',
 	onOk() {
 		return new Promise((resolve, reject) => {
-		setTimeout(Math.random() > 0.5 ? resolve : reject, 1000);
-		}).catch(() => console.log('Oops errors!'));
+			setTimeout(Math.random() > 0.5 ? resolve : reject, 1000);
+		})
+		.catch(() => console.log('Oops errors!'));
 	},
 	onCancel() {},
 });
 ```
+ReactNode
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM3OTA2MTU4LC0xNzc1NDc2ODM5XX0=
+eyJoaXN0b3J5IjpbMTExNDg5NjAyMiwtMTc3NTQ3NjgzOV19
 -->
