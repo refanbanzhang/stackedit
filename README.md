@@ -83,7 +83,20 @@ modal.destroy();
 # 全局移除弹窗（无差别移除）
 Modal.destroyAll();
 ```
+
+## 自定义宽度
+```js
+<Modal
+	width={1000}
+>
+	<p>some contents...</p>
+	<p>some contents...</p>
+	<p>some contents...</p>
+</Modal>
+```
+`width {string | number}`
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NTE4MzMyNCwxOTk1NjU0MzUxLC0xNz
+eyJoaXN0b3J5IjpbLTMxOTI2NDIyNywxOTk1NjU0MzUxLC0xNz
 c1NDc2ODM5XX0=
 -->
