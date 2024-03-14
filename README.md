@@ -17,8 +17,8 @@ onCancel 取消按钮回调
 </Modal>
 ```
 
-自定义页脚
+## 自定义页脚
 通过传递`footer` 覆盖默认的页脚。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MDEwMzQwLC0xNzc1NDc2ODM5XX0=
+eyJoaXN0b3J5IjpbMTY5OTM5NDI2MiwtMTc3NTQ3NjgzOV19
 -->
