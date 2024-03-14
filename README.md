@@ -19,6 +19,9 @@ onCancel 取消按钮回调
 
 ## 自定义页脚
 通过传递`footer` 覆盖默认的页脚。
+类型为·
+底部内容，当不需要默认底部按钮时，可以设为 `footer={null}`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5OTM5NDI2MiwtMTc3NTQ3NjgzOV19
+eyJoaXN0b3J5IjpbLTE2NDAzNDg3MzYsLTE3NzU0NzY4MzldfQ
+==
 -->
