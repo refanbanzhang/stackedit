@@ -59,7 +59,12 @@ Modal.info({
 ```
 
 ## 国际化
-
+通过自定义实现国际化
+```
+okText="确认"
+cancelText="取消"
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NTY1NDM1MSwtMTc3NTQ3NjgzOV19
+eyJoaXN0b3J5IjpbLTExMjY0NTA1MzEsMTk5NTY1NDM1MSwtMT
+c3NTQ3NjgzOV19
 -->
