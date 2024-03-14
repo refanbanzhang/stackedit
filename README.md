@@ -10,13 +10,19 @@
 ```js
 <Modal
 	title="Title"
-	open={open} 
+	open={open}
 	confirmLoading={confirmLoading}
 	onOk={handleOk} 确定按钮
 	onCancel={handleCancel} 取消按钮
 >
 	<p>{modalText}</p>
 </Modal>
+
+const handleOk = () => {
+	setTimeout(() => {
+		setOpen(false)
+	}, 1000)
+}
 ```
 
 ## 自定义页脚
@@ -103,10 +109,10 @@ https://stackblitz.com/edit/react-yuftzi?file=demo.js
 ## 使用 hooks 获得上下文
 解决了什么问题？
 解决弹层`content`中需要访问调用处数据的需求。
-但是也可以直接，在调用处通过`props`传递进来，好像更简单些。
+但是也可以直接在调用处通过`props`传递进来，好像更简单些。
 https://stackblitz.com/edit/react-zvzpjz?file=demo.js,Detail.js
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NTU2NTgwMSw4MDM5MDMwOTAsMTk2Nj
+eyJoaXN0b3J5IjpbMTg4ODk2MjI2OCw4MDM5MDMwOTAsMTk2Nj
 gzNTk4NSwtMzE5MjY0MjI3LDE5OTU2NTQzNTEsLTE3NzU0NzY4
 MzldfQ==
 -->
