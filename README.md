@@ -3,23 +3,21 @@
 遮罩样式
 给ant-modal-mask添加css属性
 
-**bodyStyle**
-Modal body
-给ant-modal-body添加css属性
+**wrapClassName**
+对话框外层容器的类名
+给ant-modal-wrap添加class类名
 
 **style**
 可用于设置浮层的样式，调整浮层位置等
 给ant-modal添加css属性
 
-**wrapClassName**
-对话框外层容器的类名
-给ant-modal-wrap添加class类名
-
 **width**
 宽度
+给ant-modal设置添加width属性
 
-
-
+**bodyStyle**
+Modal body
+给ant-modal-body添加css属性
 
 目前看来控制这个元素的className能够实现全屏切换
 wrapClassName={isFullScreen ? 'fullscreen' : ''}
@@ -49,8 +47,8 @@ const ModalEnhanced: FC<ModalProps> = (props) => {};
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkyMzMzMzAzLC0xMzE1NTk1NDU0LC0yND
-A3NjU2MjgsLTQ3ODI5MDc3MCwxODg4OTYyMjY4LDgwMzkwMzA5
-MCwxOTY2ODM1OTg1LC0zMTkyNjQyMjcsMTk5NTY1NDM1MSwtMT
-c3NTQ3NjgzOV19
+eyJoaXN0b3J5IjpbMTkzNTI2MzUyNywtMTMxNTU5NTQ1NCwtMj
+QwNzY1NjI4LC00NzgyOTA3NzAsMTg4ODk2MjI2OCw4MDM5MDMw
+OTAsMTk2NjgzNTk4NSwtMzE5MjY0MjI3LDE5OTU2NTQzNTEsLT
+E3NzU0NzY4MzldfQ==
 -->
