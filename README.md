@@ -1,6 +1,11 @@
 ## 分析Modal组件的html组成
-maskStyle 遮罩样式
-bodyStyle Modal body
+maskStyle
+遮罩样式
+给mask添加css属性
+
+bodyStyle
+Modal body
+
 style 可用于设置浮层的样式，调整浮层位置等
 wrapClassName 对话框外层容器的类名
 width 宽度
@@ -34,8 +39,8 @@ const ModalEnhanced: FC<ModalProps> = (props) => {};
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTU1OTU0NTQsLTI0MDc2NTYyOCwtND
-c4MjkwNzcwLDE4ODg5NjIyNjgsODAzOTAzMDkwLDE5NjY4MzU5
-ODUsLTMxOTI2NDIyNywxOTk1NjU0MzUxLC0xNzc1NDc2ODM5XX
-0=
+eyJoaXN0b3J5IjpbNzI0NTc0MDgyLC0xMzE1NTk1NDU0LC0yND
+A3NjU2MjgsLTQ3ODI5MDc3MCwxODg4OTYyMjY4LDgwMzkwMzA5
+MCwxOTY2ODM1OTg1LC0zMTkyNjQyMjcsMTk5NTY1NDM1MSwtMT
+c3NTQ3NjgzOV19
 -->
