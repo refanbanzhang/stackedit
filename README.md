@@ -7,21 +7,24 @@
 对话框外层容器的类名
 给ant-modal-wrap添加class类名
 
-	**style**
-	可用于设置浮层的样式，调整浮层位置等
-	给ant-modal添加css属性
+**style**
+可用于设置浮层的样式，调整浮层位置等
+给ant-modal添加css属性
 
-	**width**
-	宽度
-	给ant-modal设置添加width属性
-
-		**bodyStyle**
-		Modal body
-		给ant-modal-body添加css属性
+**width**
+宽度
+给ant-modal设置添加width属性
 
 
-	目前看来控制这个元素的className能够实现全屏切换
-	wrapClassName={isFullScreen ? 'fullscreen' : ''}
+
+
+
+
+
+目前看来控制这个元素的className能够实现全屏切换
+wrapClassName={isFullScreen ? 'fullscreen' : ''}
+
+
 
 
 
@@ -46,8 +49,8 @@ const ModalEnhanced: FC<ModalProps> = (props) => {};
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDM5Mjc5MSwtMTMxNTU5NTQ1NCwtMj
-QwNzY1NjI4LC00NzgyOTA3NzAsMTg4ODk2MjI2OCw4MDM5MDMw
-OTAsMTk2NjgzNTk4NSwtMzE5MjY0MjI3LDE5OTU2NTQzNTEsLT
-E3NzU0NzY4MzldfQ==
+eyJoaXN0b3J5IjpbLTE1NzczOTE4MjUsLTE1NDM5Mjc5MSwtMT
+MxNTU5NTQ1NCwtMjQwNzY1NjI4LC00NzgyOTA3NzAsMTg4ODk2
+MjI2OCw4MDM5MDMwOTAsMTk2NjgzNTk4NSwtMzE5MjY0MjI3LD
+E5OTU2NTQzNTEsLTE3NzU0NzY4MzldfQ==
 -->
