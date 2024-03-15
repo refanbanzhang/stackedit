@@ -1,7 +1,13 @@
 
 ## 工时评估
 
+### 权限
+初始工作量：15天
+复用工作量：3天
 
+### 穿透
+初始工作量：
+复用工作量：
 
 
 ## 分析Modal组件的html组成
@@ -45,8 +51,8 @@ const ModalEnhanced: FC<ModalProps> = (props) => {};
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzY5NDI2LC02Nzg5OTg2MDEsLTE1ND
-M5Mjc5MSwtMTMxNTU5NTQ1NCwtMjQwNzY1NjI4LC00NzgyOTA3
-NzAsMTg4ODk2MjI2OCw4MDM5MDMwOTAsMTk2NjgzNTk4NSwtMz
-E5MjY0MjI3LDE5OTU2NTQzNTEsLTE3NzU0NzY4MzldfQ==
+eyJoaXN0b3J5IjpbNTkyMDA1MjgsLTY3ODk5ODYwMSwtMTU0Mz
+kyNzkxLC0xMzE1NTk1NDU0LC0yNDA3NjU2MjgsLTQ3ODI5MDc3
+MCwxODg4OTYyMjY4LDgwMzkwMzA5MCwxOTY2ODM1OTg1LC0zMT
+kyNjQyMjcsMTk5NTY1NDM1MSwtMTc3NTQ3NjgzOV19
 -->
