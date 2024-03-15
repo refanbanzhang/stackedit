@@ -15,22 +15,12 @@
 宽度
 给ant-modal设置添加width属性
 
-
-
-
-
-
+**bodyStyle**
+Modal body
+给ant-modal-body添加css属性
 
 目前看来控制这个元素的className能够实现全屏切换
 wrapClassName={isFullScreen ? 'fullscreen' : ''}
-
-
-
-
-
-
-
-
 
 ## 两者的差异是什么？
 为什么在对antd Modal组件进行二次封装时，第一种不奏效？
@@ -49,8 +39,8 @@ const ModalEnhanced: FC<ModalProps> = (props) => {};
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzczOTE4MjUsLTE1NDM5Mjc5MSwtMT
-MxNTU5NTQ1NCwtMjQwNzY1NjI4LC00NzgyOTA3NzAsMTg4ODk2
-MjI2OCw4MDM5MDMwOTAsMTk2NjgzNTk4NSwtMzE5MjY0MjI3LD
-E5OTU2NTQzNTEsLTE3NzU0NzY4MzldfQ==
+eyJoaXN0b3J5IjpbLTY3ODk5ODYwMSwtMTU0MzkyNzkxLC0xMz
+E1NTk1NDU0LC0yNDA3NjU2MjgsLTQ3ODI5MDc3MCwxODg4OTYy
+MjY4LDgwMzkwMzA5MCwxOTY2ODM1OTg1LC0zMTkyNjQyMjcsMT
+k5NTY1NDM1MSwtMTc3NTQ3NjgzOV19
 -->
