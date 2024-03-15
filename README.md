@@ -5,16 +5,16 @@
 初始工作量：15
 复用工作量：3
 
-### 穿透
-初始工作量：4
-复用工作量：1
+###
 
-### 增删改查
-初始工作量：5
-复用工作量：1
+### 穿透
+2
 
 ### 列表+详情
-基本工作量：3
+3
+
+### 增删改查
+2
 
 
 ## 分析Modal组件的html组成
@@ -58,8 +58,8 @@ const ModalEnhanced: FC<ModalProps> = (props) => {};
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODIzNzAzMjgsLTY3ODk5ODYwMSwtMT
-U0MzkyNzkxLC0xMzE1NTk1NDU0LC0yNDA3NjU2MjgsLTQ3ODI5
-MDc3MCwxODg4OTYyMjY4LDgwMzkwMzA5MCwxOTY2ODM1OTg1LC
-0zMTkyNjQyMjcsMTk5NTY1NDM1MSwtMTc3NTQ3NjgzOV19
+eyJoaXN0b3J5IjpbNTA3MjIwMjAyLC02Nzg5OTg2MDEsLTE1ND
+M5Mjc5MSwtMTMxNTU5NTQ1NCwtMjQwNzY1NjI4LC00NzgyOTA3
+NzAsMTg4ODk2MjI2OCw4MDM5MDMwOTAsMTk2NjgzNTk4NSwtMz
+E5MjY0MjI3LDE5OTU2NTQzNTEsLTE3NzU0NzY4MzldfQ==
 -->
