@@ -1,3 +1,16 @@
+## 分析Modal组件的html组成
+
+Modal body
+
+
+
+
+
+
+
+
+
+
 ## 两者的差异是什么？
 为什么在对antd Modal组件进行二次封装时，第一种不奏效？
 ```tsx
@@ -15,7 +28,7 @@ const ModalEnhanced: FC<ModalProps> = (props) => {};
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3ODI5MDc3MCwxODg4OTYyMjY4LDgwMz
-kwMzA5MCwxOTY2ODM1OTg1LC0zMTkyNjQyMjcsMTk5NTY1NDM1
-MSwtMTc3NTQ3NjgzOV19
+eyJoaXN0b3J5IjpbMTgwNjc5NzQxMywtNDc4MjkwNzcwLDE4OD
+g5NjIyNjgsODAzOTAzMDkwLDE5NjY4MzU5ODUsLTMxOTI2NDIy
+NywxOTk1NjU0MzUxLC0xNzc1NDc2ODM5XX0=
 -->
