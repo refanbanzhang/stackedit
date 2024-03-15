@@ -6,6 +6,9 @@ wrapClassName 对话框外层容器的类名
 width 宽度
 
 
+目前看来控制这个元素的className能够实现全屏切换
+wrapClassName={isFullScreen ? 'fullscreen' : ''}
+
 
 
 
@@ -31,7 +34,8 @@ const ModalEnhanced: FC<ModalProps> = (props) => {};
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MDc2NTYyOCwtNDc4MjkwNzcwLDE4OD
-g5NjIyNjgsODAzOTAzMDkwLDE5NjY4MzU5ODUsLTMxOTI2NDIy
-NywxOTk1NjU0MzUxLC0xNzc1NDc2ODM5XX0=
+eyJoaXN0b3J5IjpbLTEzMTU1OTU0NTQsLTI0MDc2NTYyOCwtND
+c4MjkwNzcwLDE4ODg5NjIyNjgsODAzOTAzMDkwLDE5NjY4MzU5
+ODUsLTMxOTI2NDIyNywxOTk1NjU0MzUxLC0xNzc1NDc2ODM5XX
+0=
 -->
