@@ -89,24 +89,24 @@ https://open.oppomobile.com/new/introduction?page_name=audit-open
 
 #### 了解问题
 『APP、SDK未告知用户收集个人信息的目的、方式、范围且未经用户 同意，私自收集用户个人信息的行为』
-先让客户使用OPPO提供的检测工具得到进一步的信息
+app内有做到。
 
 #### 分析问题（罗列解决方案）
-添加用户协议勾选
-发布时告知审核平台使用了哪些获取用户信息的api
+app未发现问题，找客服解决。
 
 #### 开始解决（执行方案）
+提供分析结果给客服。
 
 #### 验证问题
 
 #### 总结
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1ODYxNjUzNCwtNzY1NTA3ODE3LC0xMz
-YxMjQ4MjE3LDExODAxMzY3MiwtNTE5ODcyMTc1LC00MzU0OTE0
-NjAsMzQ2NzIyMTU1LDE2MDQyMDg3NTMsLTE5OTcwMDA2MjMsLT
-Y3ODk5ODYwMSwtMTU0MzkyNzkxLC0xMzE1NTk1NDU0LC0yNDA3
-NjU2MjgsLTQ3ODI5MDc3MCwxODg4OTYyMjY4LDgwMzkwMzA5MC
-wxOTY2ODM1OTg1LC0zMTkyNjQyMjcsMTk5NTY1NDM1MSwtMTc3
-NTQ3NjgzOV19
+eyJoaXN0b3J5IjpbLTE5MzM4NzY0MTMsLTM1ODYxNjUzNCwtNz
+Y1NTA3ODE3LC0xMzYxMjQ4MjE3LDExODAxMzY3MiwtNTE5ODcy
+MTc1LC00MzU0OTE0NjAsMzQ2NzIyMTU1LDE2MDQyMDg3NTMsLT
+E5OTcwMDA2MjMsLTY3ODk5ODYwMSwtMTU0MzkyNzkxLC0xMzE1
+NTk1NDU0LC0yNDA3NjU2MjgsLTQ3ODI5MDc3MCwxODg4OTYyMj
+Y4LDgwMzkwMzA5MCwxOTY2ODM1OTg1LC0zMTkyNjQyMjcsMTk5
+NTY1NDM1MV19
 -->
