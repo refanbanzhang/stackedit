@@ -103,11 +103,11 @@ app未发现问题，找客服解决。
 
 
 ## 分析下钻
-clickData里面存的是点击的row
+clickData保存点击的row
 setGetClickData是一个useState的set函数 保存点击的row
 setGetId是一个useState的set函数 保存核算部门
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MjIzODI2MCwtMTkzMzg3NjQxMywtMz
+eyJoaXN0b3J5IjpbMTkxODAwMDcwMCwtMTkzMzg3NjQxMywtMz
 U4NjE2NTM0LC03NjU1MDc4MTcsLTEzNjEyNDgyMTcsMTE4MDEz
 NjcyLC01MTk4NzIxNzUsLTQzNTQ5MTQ2MCwzNDY3MjIxNTUsMT
 YwNDIwODc1MywtMTk5NzAwMDYyMywtNjc4OTk4NjAxLC0xNTQz
