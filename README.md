@@ -86,16 +86,25 @@ https://open.oppomobile.com/new/introduction?page_name=audit-open
 
 
 解决问题的流程：
-1. 了解问题
+了解问题
 
-2. 添加用户协议勾选
-3. 发布时告知审核平台使用了哪些获取用户信息的api
+
+分析问题
+添加用户协议勾选
+发布时告知审核平台使用了哪些获取用户信息的api
+
+开始解决()
+
+
+验证问题
+
+总结
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MTU1NjIwOSwtMTM2MTI0ODIxNywxMT
-gwMTM2NzIsLTUxOTg3MjE3NSwtNDM1NDkxNDYwLDM0NjcyMjE1
-NSwxNjA0MjA4NzUzLC0xOTk3MDAwNjIzLC02Nzg5OTg2MDEsLT
-E1NDM5Mjc5MSwtMTMxNTU5NTQ1NCwtMjQwNzY1NjI4LC00Nzgy
-OTA3NzAsMTg4ODk2MjI2OCw4MDM5MDMwOTAsMTk2NjgzNTk4NS
-wtMzE5MjY0MjI3LDE5OTU2NTQzNTEsLTE3NzU0NzY4MzldfQ==
-
+eyJoaXN0b3J5IjpbNDY1NzY3MjIyLC0xMzYxMjQ4MjE3LDExOD
+AxMzY3MiwtNTE5ODcyMTc1LC00MzU0OTE0NjAsMzQ2NzIyMTU1
+LDE2MDQyMDg3NTMsLTE5OTcwMDA2MjMsLTY3ODk5ODYwMSwtMT
+U0MzkyNzkxLC0xMzE1NTk1NDU0LC0yNDA3NjU2MjgsLTQ3ODI5
+MDc3MCwxODg4OTYyMjY4LDgwMzkwMzA5MCwxOTY2ODM1OTg1LC
+0zMTkyNjQyMjcsMTk5NTY1NDM1MSwtMTc3NTQ3NjgzOV19
 -->
