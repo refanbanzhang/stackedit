@@ -64,11 +64,16 @@ Property 'title' does not exist on type 'IntrinsicAttributes & { children?: Reac
 type ModalProps = React.ComponentProps<typeof Modal>
 const ModalEnhanced: FC<ModalProps> = (props) => {};
 ```
+## 分析下钻实现逻辑
+1. 点击核算部门按钮
+2. 调用getHsbmIdData
+	获取表单参数
+	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ2NzIyMTU1LDE2MDQyMDg3NTMsLTE5OT
-cwMDA2MjMsLTY3ODk5ODYwMSwtMTU0MzkyNzkxLC0xMzE1NTk1
-NDU0LC0yNDA3NjU2MjgsLTQ3ODI5MDc3MCwxODg4OTYyMjY4LD
-gwMzkwMzA5MCwxOTY2ODM1OTg1LC0zMTkyNjQyMjcsMTk5NTY1
-NDM1MSwtMTc3NTQ3NjgzOV19
+eyJoaXN0b3J5IjpbLTQzNTQ5MTQ2MCwzNDY3MjIxNTUsMTYwND
+IwODc1MywtMTk5NzAwMDYyMywtNjc4OTk4NjAxLC0xNTQzOTI3
+OTEsLTEzMTU1OTU0NTQsLTI0MDc2NTYyOCwtNDc4MjkwNzcwLD
+E4ODg5NjIyNjgsODAzOTAzMDkwLDE5NjY4MzU5ODUsLTMxOTI2
+NDIyNywxOTk1NjU0MzUxLC0xNzc1NDc2ODM5XX0=
 -->
