@@ -72,12 +72,22 @@ const ModalEnhanced: FC<ModalProps> = (props) => {};
 	把下钻级别的查询参数存储在level level1 level2中
 3. 在goBack中取出level数据使用
 	
+## oppo审核被拒
 
+
+
+![输入图片说明](/imgs/2024-03-18/DtGTcx1bvIolRARX.png)
+
+>『APP、SDK未告知用户收集个人信息的目的、方式、范围且未经用户 同意，私自收集用户个人信息的行为』，我们的APP没有收集用户信息吧？
+
+https://open.oppomobile.com/new/introduction?page_name=audit-open
+
+建议参考《工业和信息化部关于开展纵深推进APP侵害用户权益专项整治行动的通知》工信部信管函〔2020〕164号进行整改，还可以通过开放平台隐私服务自测获取详细报告（https://open.oppomobile.com/new/introduction?page_name=audit-open）
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MDEzNjcyLC01MTk4NzIxNzUsLTQzNT
-Q5MTQ2MCwzNDY3MjIxNTUsMTYwNDIwODc1MywtMTk5NzAwMDYy
-MywtNjc4OTk4NjAxLC0xNTQzOTI3OTEsLTEzMTU1OTU0NTQsLT
-I0MDc2NTYyOCwtNDc4MjkwNzcwLDE4ODg5NjIyNjgsODAzOTAz
-MDkwLDE5NjY4MzU5ODUsLTMxOTI2NDIyNywxOTk1NjU0MzUxLC
-0xNzc1NDc2ODM5XX0=
+eyJoaXN0b3J5IjpbLTEzNjEyNDgyMTcsMTE4MDEzNjcyLC01MT
+k4NzIxNzUsLTQzNTQ5MTQ2MCwzNDY3MjIxNTUsMTYwNDIwODc1
+MywtMTk5NzAwMDYyMywtNjc4OTk4NjAxLC0xNTQzOTI3OTEsLT
+EzMTU1OTU0NTQsLTI0MDc2NTYyOCwtNDc4MjkwNzcwLDE4ODg5
+NjIyNjgsODAzOTAzMDkwLDE5NjY4MzU5ODUsLTMxOTI2NDIyNy
+wxOTk1NjU0MzUxLC0xNzc1NDc2ODM5XX0=
 -->
