@@ -83,11 +83,17 @@ const ModalEnhanced: FC<ModalProps> = (props) => {};
 https://open.oppomobile.com/new/introduction?page_name=audit-open
 
 建议参考《工业和信息化部关于开展纵深推进APP侵害用户权益专项整治行动的通知》工信部信管函〔2020〕164号进行整改，还可以通过开放平台隐私服务自测获取详细报告（https://open.oppomobile.com/new/introduction?page_name=audit-open）
+
+
+解决方案：
+1. 添加用户协议勾选
+2. 发布时告知审核平台使用了哪些获取用户信息的api
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjEyNDgyMTcsMTE4MDEzNjcyLC01MT
-k4NzIxNzUsLTQzNTQ5MTQ2MCwzNDY3MjIxNTUsMTYwNDIwODc1
-MywtMTk5NzAwMDYyMywtNjc4OTk4NjAxLC0xNTQzOTI3OTEsLT
-EzMTU1OTU0NTQsLTI0MDc2NTYyOCwtNDc4MjkwNzcwLDE4ODg5
-NjIyNjgsODAzOTAzMDkwLDE5NjY4MzU5ODUsLTMxOTI2NDIyNy
-wxOTk1NjU0MzUxLC0xNzc1NDc2ODM5XX0=
+eyJoaXN0b3J5IjpbMTY2NTQ2NDc5MiwtMTM2MTI0ODIxNywxMT
+gwMTM2NzIsLTUxOTg3MjE3NSwtNDM1NDkxNDYwLDM0NjcyMjE1
+NSwxNjA0MjA4NzUzLC0xOTk3MDAwNjIzLC02Nzg5OTg2MDEsLT
+E1NDM5Mjc5MSwtMTMxNTU5NTQ1NCwtMjQwNzY1NjI4LC00Nzgy
+OTA3NzAsMTg4ODk2MjI2OCw4MDM5MDMwOTAsMTk2NjgzNTk4NS
+wtMzE5MjY0MjI3LDE5OTU2NTQzNTEsLTE3NzU0NzY4MzldfQ==
+
 -->
