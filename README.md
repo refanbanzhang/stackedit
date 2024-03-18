@@ -89,6 +89,7 @@ https://open.oppomobile.com/new/introduction?page_name=audit-open
 
 #### 了解问题
 
+
 #### 分析问题（罗列解决方案）
 添加用户协议勾选
 发布时告知审核平台使用了哪些获取用户信息的api
@@ -100,11 +101,11 @@ https://open.oppomobile.com/new/introduction?page_name=audit-open
 #### 总结
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NTUwNzgxNywtMTM2MTI0ODIxNywxMT
-gwMTM2NzIsLTUxOTg3MjE3NSwtNDM1NDkxNDYwLDM0NjcyMjE1
-NSwxNjA0MjA4NzUzLC0xOTk3MDAwNjIzLC02Nzg5OTg2MDEsLT
-E1NDM5Mjc5MSwtMTMxNTU5NTQ1NCwtMjQwNzY1NjI4LC00Nzgy
-OTA3NzAsMTg4ODk2MjI2OCw4MDM5MDMwOTAsMTk2NjgzNTk4NS
-wtMzE5MjY0MjI3LDE5OTU2NTQzNTEsLTE3NzU0NzY4MzldfQ==
-
+eyJoaXN0b3J5IjpbLTEyODkxMzI2NjcsLTc2NTUwNzgxNywtMT
+M2MTI0ODIxNywxMTgwMTM2NzIsLTUxOTg3MjE3NSwtNDM1NDkx
+NDYwLDM0NjcyMjE1NSwxNjA0MjA4NzUzLC0xOTk3MDAwNjIzLC
+02Nzg5OTg2MDEsLTE1NDM5Mjc5MSwtMTMxNTU5NTQ1NCwtMjQw
+NzY1NjI4LC00NzgyOTA3NzAsMTg4ODk2MjI2OCw4MDM5MDMwOT
+AsMTk2NjgzNTk4NSwtMzE5MjY0MjI3LDE5OTU2NTQzNTEsLTE3
+NzU0NzY4MzldfQ==
 -->
