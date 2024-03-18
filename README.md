@@ -75,41 +75,26 @@ const ModalEnhanced: FC<ModalProps> = (props) => {};
 ## oppo审核被拒
 
 
-
-![输入图片说明](/imgs/2024-03-18/DtGTcx1bvIolRARX.png)
-
->『APP、SDK未告知用户收集个人信息的目的、方式、范围且未经用户 同意，私自收集用户个人信息的行为』，我们的APP没有收集用户信息吧？
-
-https://open.oppomobile.com/new/introduction?page_name=audit-open
-
-建议参考《工业和信息化部关于开展纵深推进APP侵害用户权益专项整治行动的通知》工信部信管函〔2020〕164号进行整改，还可以通过开放平台隐私服务自测获取详细报告（https://open.oppomobile.com/new/introduction?page_name=audit-open）
-
-
-### 解决问题的流程
-
 #### 了解问题
 『APP、SDK未告知用户收集个人信息的目的、方式、范围且未经用户 同意，私自收集用户个人信息的行为』
 app内有做到。
 
-#### 分析问题（罗列解决方案）
+#### 分析问题（得到解决方案）
 app未发现问题，找客服解决。
 
-#### 开始解决（执行方案）
+#### 解决问题（执行方案）
 提供分析结果给客服。
 
 #### 验证问题
 
-#### 总结
-
-
-## 分析下钻
+#### 总结问题
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDIwOTI2OTUsLTIwNjE1ODE1NTcsMT
-kxODAwMDcwMCwtMTkzMzg3NjQxMywtMzU4NjE2NTM0LC03NjU1
-MDc4MTcsLTEzNjEyNDgyMTcsMTE4MDEzNjcyLC01MTk4NzIxNz
-UsLTQzNTQ5MTQ2MCwzNDY3MjIxNTUsMTYwNDIwODc1MywtMTk5
-NzAwMDYyMywtNjc4OTk4NjAxLC0xNTQzOTI3OTEsLTEzMTU1OT
-U0NTQsLTI0MDc2NTYyOCwtNDc4MjkwNzcwLDE4ODg5NjIyNjgs
-ODAzOTAzMDkwXX0=
+eyJoaXN0b3J5IjpbLTE3NTg3NjE5NDksLTE2NDIwOTI2OTUsLT
+IwNjE1ODE1NTcsMTkxODAwMDcwMCwtMTkzMzg3NjQxMywtMzU4
+NjE2NTM0LC03NjU1MDc4MTcsLTEzNjEyNDgyMTcsMTE4MDEzNj
+cyLC01MTk4NzIxNzUsLTQzNTQ5MTQ2MCwzNDY3MjIxNTUsMTYw
+NDIwODc1MywtMTk5NzAwMDYyMywtNjc4OTk4NjAxLC0xNTQzOT
+I3OTEsLTEzMTU1OTU0NTQsLTI0MDc2NTYyOCwtNDc4MjkwNzcw
+LDE4ODg5NjIyNjhdfQ==
 -->
