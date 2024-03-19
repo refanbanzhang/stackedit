@@ -64,13 +64,6 @@ Property 'title' does not exist on type 'IntrinsicAttributes & { children?: Reac
 type ModalProps = React.ComponentProps<typeof Modal>
 const ModalEnhanced: FC<ModalProps> = (props) => {};
 ```
-## 分析下钻实现逻辑
-1. 点击核算部门按钮
-2. 调用getHsbmIdData
-	获取表单参数
-	发起getLrhsListPage请求
-	把下钻级别的查询参数存储在level level1 level2中
-3. 在goBack中取出level数据使用
 	
 ## oppo审核被拒
 
@@ -90,7 +83,7 @@ app未发现问题，找客服解决。
 #### 总结问题
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTg3NjE5NDksLTE2NDIwOTI2OTUsLT
+eyJoaXN0b3J5IjpbLTE2MTEyNDM1MjQsLTE2NDIwOTI2OTUsLT
 IwNjE1ODE1NTcsMTkxODAwMDcwMCwtMTkzMzg3NjQxMywtMzU4
 NjE2NTM0LC03NjU1MDc4MTcsLTEzNjEyNDgyMTcsMTE4MDEzNj
 cyLC01MTk4NzIxNzUsLTQzNTQ5MTQ2MCwzNDY3MjIxNTUsMTYw
