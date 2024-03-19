@@ -68,40 +68,12 @@ const ModalEnhanced: FC<ModalProps> = (props) => {};
 ## oppo审核被拒
 
 
-#### 了解问题
-『APP、SDK未告知用户收集个人信息的目的、方式、范围且未经用户 同意，私自收集用户个人信息的行为』
-app内有做到。
-
-#### 分析问题（得到解决方案）
-app未发现问题，找客服解决。
-
-平台反馈原因：
-app提前调用api。
-
-解决方案：
-为什么之前审核没有报这个问题？
-	1 腾雾加了api导致提前读取？
-		让腾雾处理
-	2 平台审核要求后续更新过？
-		让腾雾处理
-https://open.oppomobile.com/new/developmentDoc/info?id=11106
-
-
-问小米什么时候加的审核条件
-
-#### 解决问题（执行方案）
-提供分析结果给客服。
-
-#### 验证问题
-
-#### 总结问题
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDk0MDc3MTIsLTkwOTU5NDI1LC03Nz
-I5OTA2NjUsMTI0MDI4Nzc1MSwtMTY0MjA5MjY5NSwtMjA2MTU4
-MTU1NywxOTE4MDAwNzAwLC0xOTMzODc2NDEzLC0zNTg2MTY1Mz
-QsLTc2NTUwNzgxNywtMTM2MTI0ODIxNywxMTgwMTM2NzIsLTUx
-OTg3MjE3NSwtNDM1NDkxNDYwLDM0NjcyMjE1NSwxNjA0MjA4Nz
-UzLC0xOTk3MDAwNjIzLC02Nzg5OTg2MDEsLTE1NDM5Mjc5MSwt
-MTMxNTU5NTQ1NF19
+eyJoaXN0b3J5IjpbMTM2NDM0Mjg5LC0xOTQ5NDA3NzEyLC05MD
+k1OTQyNSwtNzcyOTkwNjY1LDEyNDAyODc3NTEsLTE2NDIwOTI2
+OTUsLTIwNjE1ODE1NTcsMTkxODAwMDcwMCwtMTkzMzg3NjQxMy
+wtMzU4NjE2NTM0LC03NjU1MDc4MTcsLTEzNjEyNDgyMTcsMTE4
+MDEzNjcyLC01MTk4NzIxNzUsLTQzNTQ5MTQ2MCwzNDY3MjIxNT
+UsMTYwNDIwODc1MywtMTk5NzAwMDYyMywtNjc4OTk4NjAxLC0x
+NTQzOTI3OTFdfQ==
 -->
