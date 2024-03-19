@@ -78,13 +78,12 @@ app未发现问题，找客服解决。
 平台反馈原因：
 app提前调用api。
 
-为什么之前审核没有报这个问题？
-	1 腾雾加了api
-	2 平台审核要求后续更新过
-	
-
 解决方案：
-
+为什么之前审核没有报这个问题？
+	1 腾雾加了api导致提前读取？
+		让腾雾处理
+	2 平台审核要求后续更新过？
+		让腾雾处理
 
 
 #### 解决问题（执行方案）
@@ -95,11 +94,11 @@ app提前调用api。
 #### 总结问题
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MDI4Nzc1MSwtMTY0MjA5MjY5NSwtMj
-A2MTU4MTU1NywxOTE4MDAwNzAwLC0xOTMzODc2NDEzLC0zNTg2
-MTY1MzQsLTc2NTUwNzgxNywtMTM2MTI0ODIxNywxMTgwMTM2Nz
-IsLTUxOTg3MjE3NSwtNDM1NDkxNDYwLDM0NjcyMjE1NSwxNjA0
-MjA4NzUzLC0xOTk3MDAwNjIzLC02Nzg5OTg2MDEsLTE1NDM5Mj
-c5MSwtMTMxNTU5NTQ1NCwtMjQwNzY1NjI4LC00NzgyOTA3NzAs
-MTg4ODk2MjI2OF19
+eyJoaXN0b3J5IjpbLTc3Mjk5MDY2NSwxMjQwMjg3NzUxLC0xNj
+QyMDkyNjk1LC0yMDYxNTgxNTU3LDE5MTgwMDA3MDAsLTE5MzM4
+NzY0MTMsLTM1ODYxNjUzNCwtNzY1NTA3ODE3LC0xMzYxMjQ4Mj
+E3LDExODAxMzY3MiwtNTE5ODcyMTc1LC00MzU0OTE0NjAsMzQ2
+NzIyMTU1LDE2MDQyMDg3NTMsLTE5OTcwMDA2MjMsLTY3ODk5OD
+YwMSwtMTU0MzkyNzkxLC0xMzE1NTk1NDU0LC0yNDA3NjU2Mjgs
+LTQ3ODI5MDc3MF19
 -->
